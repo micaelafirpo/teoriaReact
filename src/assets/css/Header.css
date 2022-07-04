@@ -1,0 +1,29 @@
+header ul {
+    display: flex;
+    justify-content: space-around;
+    list-style: none;
+    align-items: center;
+    background-color: rgb(129, 189, 169);
+    margin: 0;
+}
+li a{
+    
+    padding: 10px 100px;
+}
+li a:hover{
+    color: white;
+}
+a {
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+}
+.title {
+    width: 50%;
+
+}
+.logo {
+    width: 24px;
+    height: 24px;
+    padding-top: 5px;
+}
